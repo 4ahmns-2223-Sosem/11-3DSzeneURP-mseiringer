@@ -11,6 +11,18 @@ die verschiedenen Arten davon. Warum ist Regionalität wichtig für eine Nachhal
 **Einblicke:**
 ![image](https://github.com/4ahmns-2223-Sosem/11-3DSzeneURP-mseiringer/assets/90834304/1c6d8a66-470d-453f-8645-40dbe0c4acf5)
 ![image](https://github.com/4ahmns-2223-Sosem/11-3DSzeneURP-mseiringer/assets/90834304/7d9dbe62-5626-44e2-adaa-9356ae798cd6)
+![image](https://github.com/4ahmns-2223-Sosem/11-3DSzeneURP-mseiringer/assets/90834304/611c04fa-1b08-435e-9be2-461c59e3501d)
+
+**Audio:**
+Erzählerstimme, selbst aufgenommen
+Hintergrundgeräusche Stereo (Bienen Summen, Sträucher rascheln, Wind, Bäume)
+Quelle: https://freesound.org/
+
+**Video:**
+selbst gestaltetes Animationsvideo mit untermalung durch erzählerstimme
+
+**Syntax Elemente:**
+if/else
 
 
 **Lessons Learned:**
