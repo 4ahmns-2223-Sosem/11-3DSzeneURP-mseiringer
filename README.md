@@ -53,3 +53,5 @@ Der Cube leuchtet nach jeder Berührung kurz auf.
 ![image](https://github.com/4ahmns-2223-Sosem/11-3DSzeneURP-mseiringer/assets/90834304/2ca92078-ed64-402e-bd71-4a65cb5c7f27)
 ![image](https://github.com/4ahmns-2223-Sosem/11-3DSzeneURP-mseiringer/assets/90834304/dd91211e-c966-475a-b2b7-61fa21c37b21)
 
+# Copyright
+**by mseiringer**
