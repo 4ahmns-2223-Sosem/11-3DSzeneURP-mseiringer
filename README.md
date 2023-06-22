@@ -22,9 +22,14 @@ Quelle: https://freesound.org/
 selbst gestaltetes Animationsvideo mit untermalung durch erzählerstimme
 
 # Syntax Elemente:
-**if/else, while, for, Methodendeklaration**
+if/else, while, for, Methodendeklaration
 
 # if/else
+Videoplayer Script: Bestimmt die Funktion des Buttons. 
+If Video is Playing -> Button stopt das Video
+Else -> Button startet das Video
+![image](https://github.com/4ahmns-2223-Sosem/11-3DSzeneURP-mseiringer/assets/90834304/a7976ed9-7be6-49c6-b491-95a6fd01d71c)
+
 
 
 **Lessons Learned:**
