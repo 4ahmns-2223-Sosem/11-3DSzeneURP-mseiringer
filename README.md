@@ -27,16 +27,29 @@ if/else, while, for, Methodendeklaration
 # if/else
 Videoplayer Script: Bestimmt die Funktion des Buttons. <br>
 If Video is Playing -> Button stopt das Video <br>
-Else -> Button startet das Video
+Else -> Button startet das Video <br>
+Script auf Gameobject - Leinwand
 ![image](https://github.com/4ahmns-2223-Sosem/11-3DSzeneURP-mseiringer/assets/90834304/a7976ed9-7be6-49c6-b491-95a6fd01d71c)
 ![image](https://github.com/4ahmns-2223-Sosem/11-3DSzeneURP-mseiringer/assets/90834304/b4daf7a4-9fb7-4e11-8373-e17e1dfb356c)
 
 # while
 DayCircle Script: Setzt die Intensität des Lichtes alle 8 Frames um 0.1 herab. <br>
+Script auf Gameobject - Directionallight
 ![image](https://github.com/4ahmns-2223-Sosem/11-3DSzeneURP-mseiringer/assets/90834304/787d3a43-b515-4527-8830-2bd5386d99b6)
 ![image](https://github.com/4ahmns-2223-Sosem/11-3DSzeneURP-mseiringer/assets/90834304/b16a78cb-60fe-40be-8ed1-22cc86fd3262)
 
-#
+# for
+Place_obj Script: Plaziert am Start 20 Bäume deren Position zufällig ermittelt wird. <br>
+Script auf Gameobject - TreePlacement
+![image](https://github.com/4ahmns-2223-Sosem/11-3DSzeneURP-mseiringer/assets/90834304/105d7a49-742a-44d7-b760-602d92404e23)
+![image](https://github.com/4ahmns-2223-Sosem/11-3DSzeneURP-mseiringer/assets/90834304/781c84a3-b5ca-4074-90f8-9f9fe1a4ad23)
 
+# Methodendeklaration
+In allen Scripts verwendet
 
-**Lessons Learned:**
+# Andere
+PressFiveTimes Script: Der Spieler muss einen Cube öfter berühren um eine Nachricht zu sehen. Der Cube1 muss 8 mal berührt werden, der Cube2 20 mal. <br>
+Der Cube leuchtet nach jeder Berührung kurz auf.
+![image](https://github.com/4ahmns-2223-Sosem/11-3DSzeneURP-mseiringer/assets/90834304/2ca92078-ed64-402e-bd71-4a65cb5c7f27)
+![image](https://github.com/4ahmns-2223-Sosem/11-3DSzeneURP-mseiringer/assets/90834304/dd91211e-c966-475a-b2b7-61fa21c37b21)
+
